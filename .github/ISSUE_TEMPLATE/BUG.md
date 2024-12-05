@@ -1,8 +1,10 @@
 ---
 name: Bug Report
 about: Report a bug
-labels:
-  - bug
+title: ''
+labels: bug
+assignees: ''
+
 ---
 
 **What happened**:
